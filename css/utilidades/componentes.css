@@ -38,6 +38,7 @@
     text-transform: uppercase;
 }
 
+
 .link::after{
     content: "";
     display: block;
