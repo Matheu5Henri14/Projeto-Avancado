@@ -60,3 +60,10 @@
 .link:hover {
 color: var(--cor-1);
 }
+
+/*Titulo das paginas internas*/
+
+.titulo-bg {
+    padding-top: 60px;
+    background-color: var(--cor-11);
+}
