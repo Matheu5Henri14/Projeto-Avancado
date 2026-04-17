@@ -17,3 +17,5 @@
 
 /*Seguros*/
 @import "./seguros/seguros.css";
+
+@import "./global/footer.css";
