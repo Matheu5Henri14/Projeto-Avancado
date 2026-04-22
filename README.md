@@ -3,6 +3,9 @@
 Este projeto é o resultado final do curso de HTML e CSS da **Origamid**. Ele marca a conclusão da minha base fundamental em front-end, onde apliquei conceitos avançados de estruturação e design responsivo para criar uma interface moderna e funcional.
 
 ---
+##  Acessando Através do GitHub Pages
+* Acesse por esse link: (https://matheu5henri14.github.io/Projeto-Avancado/)
+---
 
 ##  Objetivos Concluídos
 * **Semântica HTML5**: Estrutura de código limpa e otimizada para SEO e acessibilidade.
